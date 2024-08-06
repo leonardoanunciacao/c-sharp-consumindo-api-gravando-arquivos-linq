@@ -1,0 +1,15 @@
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/bin/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/bin/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.deps.json
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/bin/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.runtimeconfig.json
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/bin/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.dll
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/bin/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.pdb
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.AssemblyInfoInputs.cache
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.AssemblyInfo.cs
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.csproj.CoreCompileInputs.cache
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.sourcelink.json
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.dll
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/refint/c-sharp-consumindo-api-gravando-arquivos-linq.dll
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.pdb
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/c-sharp-consumindo-api-gravando-arquivos-linq.genruntimeconfig.cache
+/Users/leonardoanunciacao/AluraCursos/c-sharp-consumindo-api-gravando-arquivos-linq/obj/Debug/net8.0/ref/c-sharp-consumindo-api-gravando-arquivos-linq.dll
