@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-consumindo-api-gravando-arquivos-linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33150ab9d33d6feb02e15d71e86f9f63b662a48f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+660f0a0cbf30794b57c3c576101ffe992117949e")]
 [assembly: System.Reflection.AssemblyProductAttribute("c-sharp-consumindo-api-gravando-arquivos-linq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-consumindo-api-gravando-arquivos-linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
