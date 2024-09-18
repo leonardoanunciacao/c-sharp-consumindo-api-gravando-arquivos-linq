@@ -8,6 +8,7 @@ namespace c_sharp_consumindo_api_gravando_arquivos_linq.Modelos
 {
     internal class Musica
     {
+        private string[] tonalidades = {"C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"};
         [JsonPropertyName("song")]
         public string? Nome { get; set; }
         [JsonPropertyName("artist")]
@@ -16,6 +17,14 @@ namespace c_sharp_consumindo_api_gravando_arquivos_linq.Modelos
         public int Duracao { get; set; }
         [JsonPropertyName("genre")]
         public string? Genero { get; set; }
+        [JsonPropertyName("key")]
+        public int Key { get; set; }
+        public string Tonalidade { 
+            get
+            {
+                return tonalidades[Key];
+            } 
+        }
 
         public void ExibirDetalhesDaMusica()
         {
@@ -23,6 +32,7 @@ namespace c_sharp_consumindo_api_gravando_arquivos_linq.Modelos
             Console.WriteLine($"Música: {Nome}");
             Console.WriteLine($"Duração: {Duracao/1000}s");
             Console.WriteLine($"Gênero: {Genero}");
+            Console.WriteLine($"Tonalidade: {Tonalidade}");
         }
     }
 }

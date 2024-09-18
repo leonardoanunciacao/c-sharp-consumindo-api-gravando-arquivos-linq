@@ -39,6 +39,19 @@ namespace c_sharp_consumindo_api_gravando_arquivos_linq.Filtros
             {
                 Console.WriteLine($"- {musica.Nome}");
             }
-        }   
+        }
+
+        internal static void FiltrarMusicasNoTom(List<Musica> musicas, string tonalidade)
+        {
+            var musicasNoTom = musicas
+                .Where(musica => musica.Tonalidade.Equals(tonalidade))
+                .Select(musica => musica.Nome)
+                .ToList();
+            Console.WriteLine($"Musicas em {tonalidade}");
+            foreach (var musica in musicasNoTom)
+            {
+                Console.WriteLine($"- {musica}");
+            }
+        }
     }
 }
